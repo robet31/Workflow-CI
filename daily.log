@@ -1,1 +1,1 @@
-chore: update dependencies to latest minor - 2026-08-23
+fix: prevent crash on malformed request - 2026-08-24
